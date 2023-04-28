@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="57" started-at="2023-04-06T23:52:13 PDT" finished-at="2023-04-06T23:52:13 PDT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="57" started-at="2023-04-06T23:52:13 PDT" finished-at="2023-04-06T23:52:13 PDT">
+      <class name="com.practiceinterface.TestCase">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:com.practiceinterface.TestCase@7d0587f1]" name="testcase1" duration-ms="9" started-at="2023-04-06T23:52:13 PDT" finished-at="2023-04-06T23:52:13 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:com.practiceinterface.TestCase@7d0587f1]" name="testcase2" duration-ms="2" started-at="2023-04-06T23:52:13 PDT" finished-at="2023-04-06T23:52:13 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+      </class> <!-- com.practiceinterface.TestCase -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
